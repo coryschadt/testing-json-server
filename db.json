@@ -1,6 +1,6 @@
 {
   "notifications": {
-    "requests": true,
-    "autoRequests": true,
+    "requests": "true",
+    "autoRequests": "true",
   }
 }
