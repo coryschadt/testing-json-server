@@ -1,4 +1,5 @@
-{
-  "requestsNotification": false,
-  "autoRequestsNotification": false
+ {
+  "notifications": {
+    "name": "typicode"
+  }
 }
