@@ -2,6 +2,6 @@
 
   "profile": {
     "requestsNotification": true,
-    "autoRequestsNotification": false,
-  },
+    "autoRequestsNotification": false
+  }
 }
